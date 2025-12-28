@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mohit Singh Chauhan
-Email Me 👉 ✉️ **mohitbanna085@live.com** 
+Email Me 👉 ✉️ **mohitbanna085@gmail.com** 
 
 - 🔭 **I’m currently working on:** Frontend web projects using HTML, CSS & JavaScript  
 - 🌱 **I’m currently learning:**  JavaScript 
