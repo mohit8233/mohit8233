@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **mohitbanna085@gmail.com**
 - 👯 **I’m looking to collaborate on:** Frontend UI and responsive website projects  
 - 🤔 **I’m looking for help with:** Improving JavaScript logic and real-world project structure  
 - 💬 **Ask me about:** HTML, CSS, Bootstrap & responsive design  
-- 📫 **How to reach me:** mohitbanna085@gmail.com  
+- 📫 **Reach me:** mohitbanna085@gmail.com  
 - ⚡ **Fun fact:** I enjoy turning simple ideas into working websites  
 
 ## 🌐 Socials:
